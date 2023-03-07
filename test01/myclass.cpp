@@ -23,9 +23,9 @@ void MyClass::customDebug()
 void MyClass::variables()
 {
     int i = 10;
-    QString name = "Bryan";
+    QString name = "CS2";
 
-    name.append(" Cairns");
+    name.append(" Lab");
 
     qDebug() << name;
 }
