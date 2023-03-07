@@ -30,7 +30,7 @@ public:
     {
         if (Dialog->objectName().isEmpty())
             Dialog->setObjectName("Dialog");
-        Dialog->resize(232, 136);
+        Dialog->resize(234, 159);
         verticalLayout = new QVBoxLayout(Dialog);
         verticalLayout->setSpacing(6);
         verticalLayout->setContentsMargins(11, 11, 11, 11);

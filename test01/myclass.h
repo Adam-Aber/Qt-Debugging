@@ -23,5 +23,4 @@ signals:
 public slots:
 
 };
-
 #endif // MYCLASS_H
